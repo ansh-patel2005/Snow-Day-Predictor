@@ -1,6 +1,8 @@
 # Snow Day Predictor
 # Can be used for any location
 
+# Note: Must be run along with SnowForecastAnalyzer in same directory.
+
 # Timeline
 
 # Version 5 - Another bug fix with improvements in calculations.
